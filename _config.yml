@@ -54,7 +54,11 @@ kramdown:
 
 
 # Disqus settings
-# disqus_username: 
+# disqus_username: vandroidteam
+# disqus:
+#   enable: true
+#   shortname: v-android-team
+#   count: true
 
 # Netease settings
 netease_comment: false
