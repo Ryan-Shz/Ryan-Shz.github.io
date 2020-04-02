@@ -101,8 +101,12 @@ page-mathjax: false
 
 # Friends
 friends: [
-    # {
-    #     title: "xxx",
-    #     href: "https://xxx"
-    # }
+    {
+        title: "Ryan-Shz",
+        href: "https://github.com/Ryan-Shz"
+    }, 
+    {
+        title: "Caobin",
+        href: "https://github.com/picksomething"
+    }
 ]
