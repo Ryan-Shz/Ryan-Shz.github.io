@@ -64,7 +64,13 @@ kramdown:
 # Netease settings
 netease_comment: false
 
-
+gitalk:
+  enable: true
+  owner: Ryan-Shz
+  repo: Ryan-shz.github.io
+  clientID: 8fb31333eba6b83f8069
+  clientSecret: 44c97f67d772b748bdc9cabd0a305d7a2adc28a5
+  admin: Ryan-Shz
 
 # Analytics settings
 # Baidu Analytics 
