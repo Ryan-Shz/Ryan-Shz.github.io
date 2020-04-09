@@ -63,6 +63,13 @@ kramdown:
 # Netease settings
 netease_comment: false
 
+gitalk:
+  enable: true
+  owner: v-android-team
+  repo: v-android-team.github.io
+  clientID: 4f882f83c78c796c3b70
+  clientSecret: d4594240f5ffc3d50efca9134193199ac649bc86
+  admin: v-android-team
 
 
 # Analytics settings
